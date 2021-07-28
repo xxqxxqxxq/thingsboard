@@ -27,7 +27,7 @@
     <artifactId>web-ui</artifactId>
     <packaging>pom</packaging>
 
-    <name>ThingsBoard Web UI Microservice</name>
+    <!--<name>ThingsBoard Web UI Microservice</name>
     <url>https://thingsboard.io</url>
     <description>Service for hosting ThingsBoard Web UI</description>
 
@@ -267,5 +267,5 @@
                 <enabled>false</enabled>
             </snapshots>
         </repository>
-    </repositories>
+    </repositories>-->
 </project>
