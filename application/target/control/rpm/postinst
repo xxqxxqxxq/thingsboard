@@ -1,0 +1,10 @@
+#!/bin/sh
+
+mkdir -m 0755 -p /var/log/thingsboard
+chown -R thingsboard: /var/log/thingsboard
+chown -R thingsboard: /usr/share/thingsboard
+
+if [ $1 -eq 1 ] ; then
+        # Initial installation
+        systemctl --no-reload enable thingsboard.service >/dev/null 2>&1 || :
+fi

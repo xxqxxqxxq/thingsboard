@@ -1,0 +1,10 @@
+#!/bin/sh
+
+set -e
+
+mkdir -m 0755 -p /var/log/tb-mqtt-transport
+chown -R thingsboard: /var/log/tb-mqtt-transport
+chown -R thingsboard: /usr/share/tb-mqtt-transport
+systemctl --no-reload enable tb-mqtt-transport.service >/dev/null 2>&1 || :
+
+exit 0

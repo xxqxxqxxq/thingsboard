@@ -1,0 +1,10 @@
+#!/bin/sh
+
+set -e
+
+mkdir -m 0755 -p /var/log/tb-http-transport
+chown -R thingsboard: /var/log/tb-http-transport
+chown -R thingsboard: /usr/share/tb-http-transport
+systemctl --no-reload enable tb-http-transport.service >/dev/null 2>&1 || :
+
+exit 0

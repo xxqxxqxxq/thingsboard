@@ -1,0 +1,14 @@
+D:\tb\thingsboard\common\transport\coap\src\main\java\org\thingsboard\server\transport\coap\adaptors\CoapAdaptorUtils.java
+D:\tb\thingsboard\common\transport\coap\src\main\java\org\thingsboard\server\transport\coap\adaptors\JsonCoapAdaptor.java
+D:\tb\thingsboard\common\transport\coap\target\generated-sources\protobuf\java\org\thingsboard\server\gen\transport\coap\MeasurementsProtos.java
+D:\tb\thingsboard\common\transport\coap\src\main\java\org\thingsboard\server\transport\coap\TbCoapServerMessageDeliverer.java
+D:\tb\thingsboard\common\transport\coap\src\main\java\org\thingsboard\server\transport\coap\efento\CoapEfentoTransportResource.java
+D:\tb\thingsboard\common\transport\coap\src\main\java\org\thingsboard\server\transport\coap\efento\utils\CoapEfentoUtils.java
+D:\tb\thingsboard\common\transport\coap\src\main\java\org\thingsboard\server\transport\coap\CoapTransportResource.java
+D:\tb\thingsboard\common\transport\coap\src\main\java\org\thingsboard\server\transport\coap\adaptors\ProtoCoapAdaptor.java
+D:\tb\thingsboard\common\transport\coap\target\generated-sources\protobuf\java\org\thingsboard\server\gen\transport\coap\MeasurementTypeProtos.java
+D:\tb\thingsboard\common\transport\coap\src\main\java\org\thingsboard\server\transport\coap\adaptors\CoapTransportAdaptor.java
+D:\tb\thingsboard\common\transport\coap\src\main\java\org\thingsboard\server\transport\coap\AbstractCoapTransportResource.java
+D:\tb\thingsboard\common\transport\coap\src\main\java\org\thingsboard\server\transport\coap\CoapTransportService.java
+D:\tb\thingsboard\common\transport\coap\src\main\java\org\thingsboard\server\transport\coap\efento\adaptor\EfentoCoapAdaptor.java
+D:\tb\thingsboard\common\transport\coap\src\main\java\org\thingsboard\server\transport\coap\CoapTransportContext.java

@@ -1,0 +1,11 @@
+[Unit]
+Description=thingsboard
+After=syslog.target
+
+[Service]
+User=thingsboard
+ExecStart=/usr/share/thingsboard/bin/thingsboard.jar
+SuccessExitStatus=143
+
+[Install]
+WantedBy=multi-user.target

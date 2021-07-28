@@ -1,0 +1,8 @@
+org\thingsboard\server\common\stats\DefaultMessagesStats.class
+org\thingsboard\server\common\stats\StatsFactory.class
+org\thingsboard\server\common\stats\StatsType.class
+org\thingsboard\server\common\stats\DefaultCounter.class
+org\thingsboard\server\common\stats\DefaultStatsFactory$StubCounter.class
+org\thingsboard\server\common\stats\DefaultStatsFactory.class
+org\thingsboard\server\common\stats\MessagesStats.class
+org\thingsboard\server\common\stats\StatsCounter.class

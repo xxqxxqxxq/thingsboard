@@ -1,0 +1,6 @@
+org\thingsboard\common\util\AbstractListeningExecutor.class
+org\thingsboard\common\util\ThingsBoardThreadFactory.class
+org\thingsboard\common\util\DonAsynchron.class
+org\thingsboard\common\util\DonAsynchron$1.class
+org\thingsboard\common\util\ListeningExecutor.class
+org\thingsboard\common\util\AzureIotHubUtil.class

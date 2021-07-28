@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/application/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/actor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/dao-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/data/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/message/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/queue/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/stats/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/transport/coap/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/transport/http/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/transport/mqtt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/transport/transport-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dao/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty-mqtt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rest-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rule-engine/rule-engine-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rule-engine/rule-engine-components/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rule-engine/rule-engine-components/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tools/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/transport/coap/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/transport/coap/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/transport/http/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/transport/http/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/transport/mqtt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/transport/mqtt/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ui-ngx/target/generated-resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,7 @@
+org\thingsboard\server\transport\http\DeviceApiController.class
+org\thingsboard\server\transport\http\DeviceApiController$HttpSessionListener.class
+org\thingsboard\server\transport\http\DeviceApiController$DeviceAuthCallback.class
+org\thingsboard\server\transport\http\DeviceApiController$SessionCloseOnErrorCallback.class
+org\thingsboard\server\transport\http\HttpTransportContext.class
+org\thingsboard\server\transport\http\DeviceApiController$HttpOkCallback.class
+org\thingsboard\server\transport\http\DeviceApiController$DeviceProvisionCallback.class

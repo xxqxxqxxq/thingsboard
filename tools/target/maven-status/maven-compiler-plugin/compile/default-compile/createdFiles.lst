@@ -1,0 +1,6 @@
+org\thingsboard\client\tools\MqttSslClient.class
+org\thingsboard\client\tools\migrator\RelatedEntitiesParser.class
+org\thingsboard\client\tools\migrator\WriterBuilder.class
+org\thingsboard\client\tools\migrator\DictionaryParser.class
+org\thingsboard\client\tools\migrator\MigratorTool.class
+org\thingsboard\client\tools\migrator\PgCaMigrator.class

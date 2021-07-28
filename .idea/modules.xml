@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common/actor/actor.iml" filepath="$PROJECT_DIR$/common/actor/actor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/application/application.iml" filepath="$PROJECT_DIR$/application/application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msa/black-box-tests/black-box-tests.iml" filepath="$PROJECT_DIR$/msa/black-box-tests/black-box-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/cache/cache.iml" filepath="$PROJECT_DIR$/common/cache/cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/transport/coap/coap (1) (org.thingsboard.common.transport).iml" filepath="$PROJECT_DIR$/common/transport/coap/coap (1) (org.thingsboard.common.transport).iml" />
+      <module fileurl="file://$PROJECT_DIR$/msa/transport/coap/coap (2) (org.thingsboard.msa.transport).iml" filepath="$PROJECT_DIR$/msa/transport/coap/coap (2) (org.thingsboard.msa.transport).iml" />
+      <module fileurl="file://$PROJECT_DIR$/transport/coap/coap (3) (org.thingsboard.transport).iml" filepath="$PROJECT_DIR$/transport/coap/coap (3) (org.thingsboard.transport).iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/coap-server/coap-server.iml" filepath="$PROJECT_DIR$/common/coap-server/coap-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dao/dao.iml" filepath="$PROJECT_DIR$/dao/dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/dao-api/dao-api.iml" filepath="$PROJECT_DIR$/common/dao-api/dao-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/data/data.iml" filepath="$PROJECT_DIR$/common/data/data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/edge-api/edge-api.iml" filepath="$PROJECT_DIR$/common/edge-api/edge-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/transport/http/http (1) (org.thingsboard.common.transport).iml" filepath="$PROJECT_DIR$/common/transport/http/http (1) (org.thingsboard.common.transport).iml" />
+      <module fileurl="file://$PROJECT_DIR$/msa/transport/http/http (2) (org.thingsboard.msa.transport).iml" filepath="$PROJECT_DIR$/msa/transport/http/http (2) (org.thingsboard.msa.transport).iml" />
+      <module fileurl="file://$PROJECT_DIR$/transport/http/http (3) (org.thingsboard.transport).iml" filepath="$PROJECT_DIR$/transport/http/http (3) (org.thingsboard.transport).iml" />
+      <module fileurl="file://$PROJECT_DIR$/msa/js-executor/js-executor.iml" filepath="$PROJECT_DIR$/msa/js-executor/js-executor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/transport/lwm2m/lwm2m (1) (org.thingsboard.common.transport).iml" filepath="$PROJECT_DIR$/common/transport/lwm2m/lwm2m (1) (org.thingsboard.common.transport).iml" />
+      <module fileurl="file://$PROJECT_DIR$/msa/transport/lwm2m/lwm2m (2) (org.thingsboard.msa.transport).iml" filepath="$PROJECT_DIR$/msa/transport/lwm2m/lwm2m (2) (org.thingsboard.msa.transport).iml" />
+      <module fileurl="file://$PROJECT_DIR$/transport/lwm2m/lwm2m (3) (org.thingsboard.transport).iml" filepath="$PROJECT_DIR$/transport/lwm2m/lwm2m (3) (org.thingsboard.transport).iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/message/message.iml" filepath="$PROJECT_DIR$/common/message/message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/transport/mqtt/mqtt (1) (org.thingsboard.common.transport).iml" filepath="$PROJECT_DIR$/common/transport/mqtt/mqtt (1) (org.thingsboard.common.transport).iml" />
+      <module fileurl="file://$PROJECT_DIR$/msa/transport/mqtt/mqtt (2) (org.thingsboard.msa.transport).iml" filepath="$PROJECT_DIR$/msa/transport/mqtt/mqtt (2) (org.thingsboard.msa.transport).iml" />
+      <module fileurl="file://$PROJECT_DIR$/transport/mqtt/mqtt (3) (org.thingsboard.transport).iml" filepath="$PROJECT_DIR$/transport/mqtt/mqtt (3) (org.thingsboard.transport).iml" />
+      <module fileurl="file://$PROJECT_DIR$/msa/msa.iml" filepath="$PROJECT_DIR$/msa/msa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-mqtt/netty-mqtt.iml" filepath="$PROJECT_DIR$/netty-mqtt/netty-mqtt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/queue/queue.iml" filepath="$PROJECT_DIR$/common/queue/queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-client/rest-client.iml" filepath="$PROJECT_DIR$/rest-client/rest-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rule-engine/rule-engine.iml" filepath="$PROJECT_DIR$/rule-engine/rule-engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rule-engine/rule-engine-api/rule-engine-api.iml" filepath="$PROJECT_DIR$/rule-engine/rule-engine-api/rule-engine-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rule-engine/rule-engine-components/rule-engine-components.iml" filepath="$PROJECT_DIR$/rule-engine/rule-engine-components/rule-engine-components.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/transport/snmp/snmp (1) (org.thingsboard.common.transport).iml" filepath="$PROJECT_DIR$/common/transport/snmp/snmp (1) (org.thingsboard.common.transport).iml" />
+      <module fileurl="file://$PROJECT_DIR$/msa/transport/snmp/snmp (2) (org.thingsboard.msa.transport).iml" filepath="$PROJECT_DIR$/msa/transport/snmp/snmp (2) (org.thingsboard.msa.transport).iml" />
+      <module fileurl="file://$PROJECT_DIR$/transport/snmp/snmp (3) (org.thingsboard.transport).iml" filepath="$PROJECT_DIR$/transport/snmp/snmp (3) (org.thingsboard.transport).iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/stats/stats.iml" filepath="$PROJECT_DIR$/common/stats/stats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msa/tb/tb.iml" filepath="$PROJECT_DIR$/msa/tb/tb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msa/tb-node/tb-node.iml" filepath="$PROJECT_DIR$/msa/tb-node/tb-node.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thingsboard.iml" filepath="$PROJECT_DIR$/thingsboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/tools.iml" filepath="$PROJECT_DIR$/tools/tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/transport/transport (1) (org.thingsboard.common).iml" filepath="$PROJECT_DIR$/common/transport/transport (1) (org.thingsboard.common).iml" />
+      <module fileurl="file://$PROJECT_DIR$/msa/transport/transport (2) (org.thingsboard.msa).iml" filepath="$PROJECT_DIR$/msa/transport/transport (2) (org.thingsboard.msa).iml" />
+      <module fileurl="file://$PROJECT_DIR$/transport/transport (3) (org.thingsboard).iml" filepath="$PROJECT_DIR$/transport/transport (3) (org.thingsboard).iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/transport/transport-api/transport-api.iml" filepath="$PROJECT_DIR$/common/transport/transport-api/transport-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui-ngx/ui-ngx.iml" filepath="$PROJECT_DIR$/ui-ngx/ui-ngx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/util/util.iml" filepath="$PROJECT_DIR$/common/util/util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msa/web-ui/web-ui.iml" filepath="$PROJECT_DIR$/msa/web-ui/web-ui.iml" />
+    </modules>
+  </component>
+</project>

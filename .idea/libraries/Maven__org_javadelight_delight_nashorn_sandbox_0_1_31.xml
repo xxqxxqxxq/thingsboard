@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.javadelight:delight-nashorn-sandbox:0.1.31">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/javadelight/delight-nashorn-sandbox/0.1.31/delight-nashorn-sandbox-0.1.31.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/javadelight/delight-nashorn-sandbox/0.1.31/delight-nashorn-sandbox-0.1.31-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/javadelight/delight-nashorn-sandbox/0.1.31/delight-nashorn-sandbox-0.1.31-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

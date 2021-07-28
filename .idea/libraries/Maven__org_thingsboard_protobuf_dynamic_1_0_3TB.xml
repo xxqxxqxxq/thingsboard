@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.thingsboard:protobuf-dynamic:1.0.3TB">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/thingsboard/protobuf-dynamic/1.0.3TB/protobuf-dynamic-1.0.3TB.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/thingsboard/protobuf-dynamic/1.0.3TB/protobuf-dynamic-1.0.3TB-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/thingsboard/protobuf-dynamic/1.0.3TB/protobuf-dynamic-1.0.3TB-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

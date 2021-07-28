@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Annotation profile for Thingsboard" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.18/lombok-1.18.18.jar" />
+        </processorPath>
+        <module name="lwm2m (3) (org.thingsboard.transport)" />
+        <module name="util" />
+        <module name="snmp (1) (org.thingsboard.common.transport)" />
+        <module name="rule-engine-components" />
+        <module name="rest-client" />
+        <module name="ui-ngx" />
+        <module name="dao-api" />
+        <module name="application" />
+        <module name="actor" />
+        <module name="transport-api" />
+        <module name="cache" />
+        <module name="http (1) (org.thingsboard.common.transport)" />
+        <module name="coap (3) (org.thingsboard.transport)" />
+        <module name="mqtt (1) (org.thingsboard.common.transport)" />
+        <module name="tools" />
+        <module name="lwm2m (1) (org.thingsboard.common.transport)" />
+        <module name="netty-mqtt" />
+        <module name="mqtt (3) (org.thingsboard.transport)" />
+        <module name="queue" />
+        <module name="dao" />
+        <module name="coap-server" />
+        <module name="stats" />
+        <module name="snmp (3) (org.thingsboard.transport)" />
+        <module name="http (3) (org.thingsboard.transport)" />
+        <module name="message" />
+        <module name="black-box-tests" />
+        <module name="data" />
+        <module name="coap (1) (org.thingsboard.common.transport)" />
+        <module name="edge-api" />
+        <module name="rule-engine-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="actor" target="11" />
+      <module name="application" target="11" />
+      <module name="black-box-tests" target="11" />
+      <module name="cache" target="11" />
+      <module name="coap (1) (org.thingsboard.common.transport)" target="11" />
+      <module name="coap (2) (org.thingsboard.msa.transport)" target="1.5" />
+      <module name="coap (3) (org.thingsboard.transport)" target="11" />
+      <module name="coap-server" target="11" />
+      <module name="common" target="1.5" />
+      <module name="dao" target="11" />
+      <module name="dao-api" target="11" />
+      <module name="data" target="11" />
+      <module name="edge-api" target="11" />
+      <module name="http (1) (org.thingsboard.common.transport)" target="11" />
+      <module name="http (2) (org.thingsboard.msa.transport)" target="1.5" />
+      <module name="http (3) (org.thingsboard.transport)" target="11" />
+      <module name="js-executor" target="1.5" />
+      <module name="lwm2m (1) (org.thingsboard.common.transport)" target="11" />
+      <module name="lwm2m (2) (org.thingsboard.msa.transport)" target="1.5" />
+      <module name="lwm2m (3) (org.thingsboard.transport)" target="11" />
+      <module name="message" target="11" />
+      <module name="mqtt (1) (org.thingsboard.common.transport)" target="11" />
+      <module name="mqtt (2) (org.thingsboard.msa.transport)" target="1.5" />
+      <module name="mqtt (3) (org.thingsboard.transport)" target="11" />
+      <module name="msa" target="1.5" />
+      <module name="netty-mqtt" target="11" />
+      <module name="queue" target="11" />
+      <module name="rest-client" target="11" />
+      <module name="rule-engine" target="1.5" />
+      <module name="rule-engine-api" target="11" />
+      <module name="rule-engine-components" target="11" />
+      <module name="snmp (1) (org.thingsboard.common.transport)" target="11" />
+      <module name="snmp (2) (org.thingsboard.msa.transport)" target="1.5" />
+      <module name="snmp (3) (org.thingsboard.transport)" target="11" />
+      <module name="stats" target="11" />
+      <module name="tb" target="1.5" />
+      <module name="tb-node" target="1.5" />
+      <module name="thingsboard" target="1.5" />
+      <module name="tools" target="11" />
+      <module name="transport (1) (org.thingsboard.common)" target="1.5" />
+      <module name="transport (2) (org.thingsboard.msa)" target="1.5" />
+      <module name="transport (3) (org.thingsboard)" target="1.5" />
+      <module name="transport-api" target="11" />
+      <module name="ui-ngx" target="11" />
+      <module name="util" target="11" />
+      <module name="web-ui" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="actor" options="-Xlint:deprecation -Xlint:removal -Xlint:unchecked" />
+      <module name="application" options="-Xlint:deprecation -Xlint:removal -Xlint:unchecked" />
+      <module name="black-box-tests" options="-Xlint:deprecation -Xlint:removal -Xlint:unchecked" />
+      <module name="cache" options="-Xlint:deprecation -Xlint:removal -Xlint:unchecked" />
+      <module name="coap (1) (org.thingsboard.common.transport)" options="-Xlint:deprecation -Xlint:removal -Xlint:unchecked" />
+      <module name="coap (3) (org.thingsboard.transport)" options="-Xlint:deprecation -Xlint:removal -Xlint:unchecked" />
+      <module name="coap-server" options="-Xlint:deprecation -Xlint:removal -Xlint:unchecked" />
+      <module name="dao" options="-Xlint:deprecation -Xlint:removal -Xlint:unchecked" />
+      <module name="dao-api" options="-Xlint:deprecation -Xlint:removal -Xlint:unchecked" />
+      <module name="data" options="-Xlint:deprecation -Xlint:removal -Xlint:unchecked" />
+      <module name="edge-api" options="-Xlint:deprecation -Xlint:removal -Xlint:unchecked" />
+      <module name="http (1) (org.thingsboard.common.transport)" options="-Xlint:deprecation -Xlint:removal -Xlint:unchecked" />
+      <module name="http (3) (org.thingsboard.transport)" options="-Xlint:deprecation -Xlint:removal -Xlint:unchecked" />
+      <module name="lwm2m (1) (org.thingsboard.common.transport)" options="-Xlint:deprecation -Xlint:removal -Xlint:unchecked" />
+      <module name="lwm2m (3) (org.thingsboard.transport)" options="-Xlint:deprecation -Xlint:removal -Xlint:unchecked" />
+      <module name="message" options="-Xlint:deprecation -Xlint:removal -Xlint:unchecked" />
+      <module name="mqtt (1) (org.thingsboard.common.transport)" options="-Xlint:deprecation -Xlint:removal -Xlint:unchecked" />
+      <module name="mqtt (3) (org.thingsboard.transport)" options="-Xlint:deprecation -Xlint:removal -Xlint:unchecked" />
+      <module name="netty-mqtt" options="-Xlint:deprecation -Xlint:removal -Xlint:unchecked" />
+      <module name="queue" options="-Xlint:deprecation -Xlint:removal -Xlint:unchecked" />
+      <module name="rest-client" options="-Xlint:deprecation -Xlint:removal -Xlint:unchecked" />
+      <module name="rule-engine-api" options="-Xlint:deprecation -Xlint:removal -Xlint:unchecked" />
+      <module name="rule-engine-components" options="-Xlint:deprecation -Xlint:removal -Xlint:unchecked" />
+      <module name="snmp (1) (org.thingsboard.common.transport)" options="-Xlint:deprecation -Xlint:removal -Xlint:unchecked" />
+      <module name="snmp (3) (org.thingsboard.transport)" options="-Xlint:deprecation -Xlint:removal -Xlint:unchecked" />
+      <module name="stats" options="-Xlint:deprecation -Xlint:removal -Xlint:unchecked" />
+      <module name="tools" options="-Xlint:deprecation -Xlint:removal -Xlint:unchecked" />
+      <module name="transport-api" options="-Xlint:deprecation -Xlint:removal -Xlint:unchecked" />
+      <module name="ui-ngx" options="-Xlint:deprecation -Xlint:removal -Xlint:unchecked" />
+      <module name="util" options="-Xlint:deprecation -Xlint:removal -Xlint:unchecked" />
+    </option>
+  </component>
+</project>
